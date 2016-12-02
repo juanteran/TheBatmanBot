@@ -5,5 +5,4 @@ end
 
 group :development do
 	gem 'telegram_bot'
-	gem 'rails_12facotr'
 end
