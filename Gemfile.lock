@@ -26,6 +26,3 @@ PLATFORMS
 
 DEPENDENCIES
   telegram_bot
-
-BUNDLED WITH
-   1.13.6
