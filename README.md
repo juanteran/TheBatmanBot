@@ -1,2 +1,2 @@
 # TheBatmanBot
-TheBatmanBot is a Bot but telegram.
+TheBatmanBot is a Bot for telegram.
